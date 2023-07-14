@@ -18,7 +18,7 @@ Prasanna-Email Subscription is a simple website template that allows users to su
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Email-Subscription/
+    https://prasannad02.github.io/Email-subscription/
 ## Getting Started:
 
 To use the Prasanna-Email Subscription website template and integrate it with Google Sheets, follow these steps:
